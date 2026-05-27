@@ -40,14 +40,14 @@ This mirrors exactly the workflow used at aerospace companies (Boeing, Airbus, N
 
 ## 🗓️ Weekly Overview
 
-| Week | Dates | Topic | 
-|---|---|---|---|
-
+| Week | Dates | Topic |
+|---|---|---|
 | [Week 1](./week01/README.md) | 1–7 Jun | Foundations, Requirements and Flight Dynamics Modelling (6-DOF) |
-| [Week 2](./week02/README.md) | 8–14 Jun | Environment & Sensor Models | 15 pts |
-| [Week 3](./week03/README.md) | 15–21 Jun | Flight Control Law & Flight Manager | 
-| [Week 4](./week04/README.md) | 22–28 Jun | Sensor Fusion — Extended Kalman Filter | 
-| [Week 5](./week05/README.md) | 29 Jun–6 Jul | Validation, Testing & Waypoint Mission | 
+| [Week 2](./week02/README.md) | 8–14 Jun | Environment & Sensor Models |
+| [Week 3](./week03/README.md) | 15–21 Jun | Flight Control Law & Flight Manager |
+| [Week 4](./week04/README.md) | 22–28 Jun | Sensor Fusion — Extended Kalman Filter |
+| [Week 5](./week05/README.md) | 29 Jun–6 Jul | Validation, Testing & Waypoint Mission |
+|  |  
 
 ---
 
