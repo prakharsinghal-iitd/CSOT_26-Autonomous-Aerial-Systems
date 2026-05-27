@@ -13,10 +13,10 @@ Model-Based Design for Autonomous Aerial Systems — from mathematical model to 
 |---|---|
 | **Series** | Autonomous Aerial Systems — Drone Autopilot Design & Simulation |
 | **Club** | AeroClub, IIT Delhi |
-| **Domain** | Aerial — CSOT 2025 |
-| **Duration** | 6 Weeks (25 May – 6 July 2025) |
+| **Domain** | Aerial — CSOT 2026 |
+| **Duration** | 6 Weeks (1 june – 6 July 2026) |
 | **Effort** | 3–4 hours / week |
-| **Tools** | MATLAB R2024b / Simulink |
+| **Tools** | MATLAB R2026b / Simulink |
 | **Total Points** | 100 pts + 20 bonus |
 | **Prerequisite** | Basic physics or control systems |
 | **Final Output** | Autopilot system + report + demo video |
@@ -169,7 +169,7 @@ Submissions are evaluated within **48 hours** of the deadline. The leaderboard i
 
 ## ⚖️ Rules
 
-1. All Simulink models must run on **MATLAB R2024b** with no missing toolboxes.
+1. All Simulink models must run on **MATLAB R2026b** with no missing toolboxes.
 2. Submissions after the deadline receive a **10 pt deduction per day**.
 3. Your `.slx` file must be **self-contained** — no broken paths or missing blocks.
 4. You may discuss concepts with peers but all code/models must be your own work.
