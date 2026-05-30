@@ -9,7 +9,7 @@
 
 ## Videos 
 
-Watch in this order: Video 1 → Video 2 → (write requirements) → Video 3 → Video 4 → (build model).
+Watch in this order: Video 1 → Video 2 → (try to grasp everything seen so far) → Video 3 → Video 4 → (build model).
 
 - Video1 : https://youtu.be/likYtvPMi_4?si=LdMDr5mo344aipJP
 - Video2 : https://youtu.be/FTP9j-4FAig?si=hSJ92OvDt8-VFRug
