@@ -118,7 +118,7 @@ Go to [`week01/README.md`](./week01/README.md). Read it **completely** before do
 Follow [`week01/tasks/`](./week01/tasks)
 
 ### Step 4 — Submit
-Follow [`week01/submissions/SUBMISSION_GUIDE.md`](./week01/submissions/Submission_Guide.md) exactly.
+Follow [`week01/submissions/Submission_Guide.md`](./week01/submissions/Submission_Guide.md) exactly.
 
 ---
 
