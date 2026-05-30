@@ -104,7 +104,7 @@ Full submission guide: [`submissions/SUBMISSION_GUIDE.md`](./submissions/SUBMISS
 | Day | Task | Time |
 |---|---|---|
 | Day 1 | Install MATLAB R2026 + Watch Videos | 2.5 hrs |
-| Day 2 | Write requirements document | 1.5 hrs |
+| Day 2 | Write answers (this thing is so that u don't forget basics if u are newbie)  | 1.5 hrs |
 | Day 3 | Watch Videos + start Simulink model | 2 hrs |
 | Day 4 | Complete model, run trim analysis, submit | 1 hr |
 
@@ -123,18 +123,18 @@ Full submission guide: [`submissions/SUBMISSION_GUIDE.md`](./submissions/SUBMISS
 
 - [ ] MATLAB R2026 installed with all 5 toolboxes
 - [ ] Library browser screenshot saved
-- [ ] All 4 videos watched with notes covering both requirements and dynamics
+- [ ] All 4 videos watched covering both requirements and dynamics
 - [ ] 6-DOF Simulink model built with correct inputs, outputs, and subsystems
 - [ ] Hover trim verified — position and attitude stay constant
 - [ ] % error computed and recorded
-- [ ] All 4–5 files placed in `week01/submissions/YOUR_NAME/`
+- [ ] All 3-4 files placed in `week01/submissions/YOUR_NAME/`
 - [ ] Pull Request opened: `[Week 1] Your Name — Submission`
 
 ---
 
 ## 📚 Resources
 
-[`resources/RESOURCES.md`](./resources/RESOURCES.md)
+[`resources/Resources.md`](./resources/Resources.md)
 
 ---
 
