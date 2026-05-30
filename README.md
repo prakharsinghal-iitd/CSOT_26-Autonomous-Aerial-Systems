@@ -120,7 +120,7 @@ Go to [`week01/README.md`](./week01/README.md). Read it **completely** before do
 Follow [`week01/tasks/`](./week01/tasks)
 
 ### Step 4 — Submit
-Follow [`week01/submissions/SUBMISSION_GUIDE.md`](./week01/submissions/SUBMISSION_GUIDE.md) exactly.
+Follow [`week01/submissions/SUBMISSION_GUIDE.md`](./week01/submissions/Submission_Guide.md) exactly.
 
 ---
 
@@ -128,7 +128,7 @@ Follow [`week01/submissions/SUBMISSION_GUIDE.md`](./week01/submissions/SUBMISSIO
 ## 📌 Important Links
 
 - 📺 **Playlist:** [Drone Autopilot Design & Simulation in Simulink](https://youtube.com/playlist?list=PLw9UeyR2OgE2uzMYHbvc1SLhZFiI9uM4p)
-- 📄 **Official Problem Statement:** [`docs/PROBLEM_STATEMENT.md`](./docs/PROBLEM_STATEMENT.md)
+- 📄 **Official Problem Statement:** [`docs/Problem_Statement.md`](./docs/Problem_Statement.md)
 - 📬 **Submission portal:** CSOT 2026 portal (link shared separately)
 
 ---
