@@ -25,13 +25,13 @@ Use the **NED (North-East-Down)** body frame convention:
 - y → rightward (East)  
 - z → downward (Down) ← gravity acts in **+z** direction in NED
 
-### Rotor Layout (+ configuration)
+### Rotor Layout (X configuration)
 ```
-        Motor 1 (Front) — CCW
-              |
-Motor 4 (Left) — CW  ←——[BODY]——→  Motor 2 (Right) — CW
-              |
-        Motor 3 (Rear) — CCW
+   M1(FL)      M2(FR)
+     \          /
+        [BODY]
+      /        \
+  M4(RL)      M3(RR)
 ```
 - Motors 1 & 3 spin **counter-clockwise (CCW)**
 - Motors 2 & 4 spin **clockwise (CW)**
@@ -48,12 +48,12 @@ Total force and torques on the body:
 ```
 Fz (total thrust) = kT × (ω1² + ω2² + ω3² + ω4²)
 
-τ_roll  = kT × L × (ω4² - ω2²)           [left-right difference]
-τ_pitch = kT × L × (ω1² - ω3²)           [front-rear difference]
-τ_yaw   = kQ × (ω1² + ω3² - ω2² - ω4²)  [CCW minus CW]
+τ_roll  = kT × L × (ω1² + ω4² - ω2² - ω3²)           [left-right difference]
+τ_pitch = kT × L × (ω1² + ω2² - ω3² - ω4²)           [front-rear difference]
+τ_yaw   = kQ × (ω2² + ω4² - ω1² - ω3²)  [CW minus CCW]
 ```
 
-Where L is the arm length (centre to rotor).
+Where L is the arm length (centre to rotor) ( 0.225 provided in Readme).
 
 ### Equations of Motion
 
