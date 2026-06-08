@@ -163,7 +163,7 @@ At hover, the total thrust equals weight:
 ```
 
 ### Running the Trim Simulation
-1. Set all 4 rotor inputs to `ω_hover = 205.631xx rad/s` using Constant blocks.
+1. Set all 4 rotor inputs to `ω_hover = 205.63xx rad/s` using Constant blocks.
 2. Set all initial conditions to zero (position = [0,0,0], attitude = [0,0,0], rates = [0,0,0]).
 3. Run simulation for **5 seconds**.
 4. Check the Scope on z — it must stay at 0 ± 0.01 m.
