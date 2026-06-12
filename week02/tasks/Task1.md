@@ -93,7 +93,7 @@ Inside the Wind Model subsystem:
 ### Step 3 — Dryden Turbulence Block
 
 1. In the Simulink Library Browser, go to: **Aerospace Blockset → Environment → Wind**
-2. Drag the **Dryden Wind Turbulence Model (Continuous)** block into your Wind subsystem.
+2. Drag the **Dryden Wind Turbulence Model (Continuous)(+q -r)** block into your Wind subsystem.
 3. Configure parameters:
    - **Altitude:** connect from your plant z-output (or use Constant = 10 m for now)
    - **Airspeed:** Constant block = 3 (m/s)
@@ -123,7 +123,8 @@ In MATLAB after simulation:
 ```matlab
 % Plot wind force signal
 figure;
-plot(tout, F_wind_y_log);   % from To Workspace block on F_wind_y output
+plot(out.tout, out.workspace_name.Data);   % from To Workspace block on F_wind_y output
+% replace workspace_name with the name of workspace connected to F_wind.
 xlabel('Time (s)');
 ylabel('Wind Force Y (N)');
 title('Wind Force Signal — Constant + Dryden Turbulence');
