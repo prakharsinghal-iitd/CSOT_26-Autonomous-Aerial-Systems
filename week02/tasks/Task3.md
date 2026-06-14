@@ -229,8 +229,9 @@ Run a 30-second simulation where the drone is commanded to slowly rotate (yaw) â
 figure('Position', [100 100 1000 400]);
 
 % Barometer comparison
+%%%%%replace _____true_log and ____meas_log with your workspace names
 subplot(1,2,1);
-plot(tout, alt_true_log, 'b-', 'LineWidth', 1.5, 'DisplayName', 'True altitude');
+plot(out.tout, out.alt_true_log, 'b-', 'LineWidth', 1.5, 'DisplayName', 'True altitude');  
 hold on;
 plot(tout, alt_meas_log, 'r-', 'LineWidth', 0.8, 'DisplayName', 'Barometer');
 xlabel('Time (s)'); ylabel('Altitude (m)');
