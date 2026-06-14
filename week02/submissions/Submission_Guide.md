@@ -48,7 +48,9 @@ Each subplot must have: axis labels, title, legend, grid.
 ## What the SNR Screenshot Must Show
 
 snr_result_YOUR_NAME.png must be a screenshot of the MATLAB Command Window showing:
+
   IMU Accelerometer X-axis SNR: XX.XX dB
+  
   IMU Gyroscope X-axis SNR: XX.XX dB
 
 
@@ -73,14 +75,14 @@ Share your drive links here: [Google Form](https://forms.gle/qaFpcEgGAxvwbfCp8)
 
 ## Week 2 Assessment
 
-| Criterion | Max | My Score |
-|---|---|---|
-| All 4 sensor subsystems present | 5 | /5 |
-| Correct noise parameters | 3 | /3 |
-| Wind causes visible drift | 1 | /1 |
-| Comparison plots (4 sensors) | 4 | /4 |
-| SNR reported and realistic | 2 | /2 |
-| Total | 15 | /15 |
+| Criterion | Max | 
+|---|---|
+| All 4 sensor subsystems present | 5 | 
+| Correct noise parameters | 3 | 
+| Wind causes visible drift | 1 | 
+| Comparison plots (4 sensors) | 4 | 
+| SNR reported and realistic | 2 | 
+| Total | 15 | 
 
 ---
 
